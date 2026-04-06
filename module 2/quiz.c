@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+    int x = 10;
+    int y = 12;
+    if (x >= y)
+    {
+       printf("hi");
+    }
+    printf("hello");
+
+
+
+    return 0;
+}
